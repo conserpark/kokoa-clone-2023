@@ -53,3 +53,14 @@
   margin-bottom: 10px;
   display: block;
 }
+
+.user-component__warning {
+  display: inline-block;
+  text-align: center;
+  width: 16px;
+  height: 16px;
+  border: 2px solid tomato;
+  border-radius: 50%;
+  color: tomato;
+  font-weight: 600;
+}
